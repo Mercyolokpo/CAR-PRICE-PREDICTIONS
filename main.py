@@ -6,7 +6,7 @@ import xgboost as xgb
 def main():
     html_temp = """ 
     <div style = "background-color:lightblue;padding:16px">
-    <h2 style = "color:black;text-align:center;"> Mercy_Olokpo Car Price Prediction Web App </h2>
+    <h2 style = "color:black;text-align:center;"> Mercy Olokpo Car Price Prediction Web App </h2>
     </div>
     """
     
